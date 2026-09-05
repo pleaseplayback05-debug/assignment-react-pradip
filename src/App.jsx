@@ -67,8 +67,8 @@ function App() {
         course="BCA"
         semester="5th"
         email="pradip@gmail.com"
-        phone="9876543210"
-        city="Gandhidham"
+        phone="9429896347"
+        city="navsari"
       />
       <TextAnalyzer />
     </div>
